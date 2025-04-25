@@ -41,8 +41,8 @@
 ### 📫 Como me encontrar
 
 - ✉️ Email: contatoalan@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/alansmatias)
-- 🌐 Portfólio: [seusite.com](https://emEdicao.com)
+- 💼 LinkedIn: [linkedin.com/in/alansmatias](https://linkedin.com/in/alansmatias)
+- 🌐 Portfólio: [emEdicao.com](https://emEdicao.com)
 
 ---
 
