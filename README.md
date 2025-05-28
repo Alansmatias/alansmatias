@@ -1,7 +1,7 @@
 <h1 align="center">Fala dev! 👋 Sou o Alan</h1>
 
 <p align="center">
-  <b>Desenvolvedor PHP & Laravel</b> apaixonado por transformar ideias em soluções reais 💻
+  <b>Desenvolvedor WEB Moderno</b> apaixonado por transformar ideias em soluções reais 💻
 </p>
 
 ---
